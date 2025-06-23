@@ -1,0 +1,10 @@
+- Easier to grow services with existing client
+   - So squeeze the most out of these
+   - Low-hanging fruit
+   - JHU 
+- Getting new client hardest
+   - No rush to scale
+- Business development
+   - Have lunch or coffee with clients
+   - Build habits and endure
+   - Emergent stuff  
