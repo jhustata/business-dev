@@ -7,4 +7,5 @@
 - Business development
    - Have lunch or coffee with clients
    - Build habits and endure
-   - Emergent stuff  
+   - Emergent stuff
+   - `Intentionality`
